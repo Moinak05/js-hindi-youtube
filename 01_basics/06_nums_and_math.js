@@ -20,7 +20,8 @@ const hundred = 200000000
 // console.log(Math.floor(4.5))
 // console.log(Math.max(8,56,85,6,98,5,6,5,8502,2.3))
 // console.log(Math.min(8,56,85,6,98,5,6,5,8502,2.3))
-console.log(Math.random())
-console.log(Math.floor(Math.random()*10))
-const min =10 
-const max = 20
+// console.log(Math.random())
+// console.log(Math.floor((Math.random()*10)+1))
+min = 20 ;
+max =40;
+console.log ((Math.floor((Math.random()*(max-min+1))))+min)
