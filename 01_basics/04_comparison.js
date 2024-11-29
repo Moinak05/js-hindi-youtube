@@ -8,4 +8,4 @@ console.log(undefined==0);
 // === [***strick check]
 console.log("2" === 2)
 console.log("2" == 2);
-// clean code is most important
+// clean code is most important,we have to write a code with clear view
